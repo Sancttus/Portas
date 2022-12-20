@@ -32,5 +32,12 @@ a tela do jogo terá a quantidade de portas configurada e um botão para reinici
 <img src="public\Projeto.png"/>
 
 <h2>Pasta components</h2>
-<p>Pasta components: temos 4 arquivos Cartão, EntradaNumerica, Porta, Prensente</p>
+<p>Pasta components: temos 4 arquivos Cartao, EntradaNumerica, Porta, Prensente</p>
+  <ul>
+   <ul>Cartão: arquivo que contem o</ul>
+   <ul>EntradaNumerica:</ul>
+   <ul>Porta:</ul>
+   <ul>Prensente:</ul>
+  </ul>
+
 <img src="public\pasta_components.png"/>
