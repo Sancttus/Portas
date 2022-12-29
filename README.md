@@ -44,6 +44,11 @@ a tela do jogo terá a quantidade de portas configurada e um botão para reinici
 
 <h2>Pasta Function</h2>
 <p>Pasta Function: Possui apenas um arquivo Portas.jsx</p>
-<p>Portas: Esse arquivo contém os códigos que gera a quantidade de portas criadas e o controle de seus estados, se está aberta, fechada, selecionada, se tem presente,também atualiza o arquivo portaModel.
+<p>Portas: Esse arquivo contém os códigos que gera a quantidade de portas criadas em qual vai estar o presente, também atualiza o arquivo portaModel.
 </p>
 <img src="public\pasta_function.png"/>
+
+<h2>Pasta Model</h2>
+<p>Pasta Model: Possui apenas um arquivo Porta.jsx</p>
+<p>Porta: Arquivo possui os códigos responsáveis pelas funções da porta, dentre elas se está aberta, fechada, selecionada.</p>
+<img src="public\pasta_model.png"/>
