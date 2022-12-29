@@ -34,10 +34,16 @@ a tela do jogo terá a quantidade de portas configurada e um botão para reinici
 <h2>Pasta components</h2>
 <p>Pasta components: temos 4 arquivos Cartao, EntradaNumerica, Porta, Prensente</p>
   <ul>
-   <ul>Cartão: arquivo que contem o</ul>
-   <ul>EntradaNumerica:</ul>
-   <ul>Porta:</ul>
-   <ul>Prensente:</ul>
+   <ul>Cartão: Arquivo que contém os códigos para geração dos cartões da configuração inicial do jogo. </ul>
+   <ul>EntradaNumerica: Arquivo que contém os códigos para configurar a quantidade de portas e quantidade de presentes do jogo.</ul>
+   <ul>Porta: Arquivo contém os códigos para criação da porta, com os códigos em Css para definir tamanho, largura, cor, etc. também recebe dados do arquivo portaModel               que faz as validações, se a porta está selecionada e se tem presente atrás da porta ou se está aberta ou fechada.</ul>
+   <ul>Prensente:Arquivo que contém os códigos para a criação do presente, esse arquivo também recebe os códigos do Css de tamanho, largura, cor, etc.</ul>
   </ul>
 
 <img src="public\pasta_components.png"/>
+
+<h2>Pasta Function</h2>
+<p>Pasta Function: Possui apenas um arquivo Portas.jsx</p>
+<p>Portas: Esse arquivo contém os códigos que gera a quantidade de portas criadas e o controle de seus estados, se está aberta, fechada, selecionada, se tem presente,também atualiza o arquivo portaModel.
+</p>
+<img src="public\pasta_function.png"/>
