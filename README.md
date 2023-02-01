@@ -79,7 +79,7 @@ a tela do jogo terá a quantidade de portas configurada e um botão para reinici
 <p>selecionando uma porta: Nessa tela o jogo está rodando, podemos observar que a porta  de número 2 estar com uma borda amarela, esse a caracteristica da seleção,
    quando 'clickamos' na porta ela seleciona, serve para marca em qual porta há o presente.
 </p>
-<img src="public\tela_do_game.png"/>
+<img src="public\porta_selecionada.png"/>
 
 <h2>Tela do jogo porta aberta vazia</h2>
 <p>porta aberta vazia: Nessa tela o jogo está rodando, podemos observar que a porta  de número 2 estará aberta mas não há presente nela significando que você errou.
